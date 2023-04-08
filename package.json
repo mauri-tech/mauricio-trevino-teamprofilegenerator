@@ -1,0 +1,22 @@
+{
+  "name": "mauricio-trevino-teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauri-tech/mauricio-trevino-teamprofilegenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauri-tech/mauricio-trevino-teamprofilegenerator/issues"
+  },
+  "homepage": "https://github.com/mauri-tech/mauricio-trevino-teamprofilegenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
